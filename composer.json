@@ -17,7 +17,7 @@
 		"issues": "https://github.com/farhanaliofficial/Requests/issues"
 
 	},
-	"type": "project",
+	"type": "library",
 	"require": {
 		"php": ">=5.6.0"
 	},
