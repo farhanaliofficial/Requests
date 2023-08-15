@@ -1,6 +1,6 @@
 <?php
 
-namespace Farhan\Requests;
+namespace FarhanAliOfficial\Requests;
 
 class Response{
 	public $status_code;
