@@ -1,0 +1,18 @@
+{
+	"name": "farhanaliofficial/requests",
+	"description": "A simple HTTP requests library that provides an easy-to-use wrapper for cURL functionality.",
+	"authors": [
+		{
+			"name": "Farhan Ali",
+			"email": "officialofun@gmail.com"
+		}
+	],
+	"require": {
+		"php": ">=5.6.0"
+	},
+	"autoload": {
+		"psr-4": {
+			"Farhan\\Requests\\": "src/"
+		}
+	}
+}
