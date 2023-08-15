@@ -2,7 +2,7 @@
 	"name": "farhanaliofficial/requests",
 	"description": "A simple HTTP requests library that provides an easy-to-use wrapper for cURL functionality.",
 	"homepage": "https://github.com/farhanaliofficial/Requests",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"authors": [
 		{
 			"name": "Farhan Ali",
