@@ -19,7 +19,7 @@ Here's an example of how to use the Farhan/Requests library:
 
 require 'vendor/autoload.php';
 
-use Farhan\Requests;
+use FarhanAliOfficial\Requests;
 
 $url = "https://example.com";
 
