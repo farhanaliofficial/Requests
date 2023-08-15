@@ -1,6 +1,6 @@
 <?php
 
-namespace Farhan\Requests;
+namespace FarhanAliOfficial\Requests;
 
 class Requests{
 	public function request($method, $url, $data=[], $headers=[], $options=[]) {
